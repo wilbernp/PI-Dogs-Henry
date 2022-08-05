@@ -1,0 +1,40 @@
+/* .grid {
+    margin-left: 25%;
+    padding: 1px 16px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+} */
+
+/* .aside {
+    margin: 0;
+    padding: 0;
+    width: 25%;
+    background-color: #f1f1f1;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+header {
+    margin-bottom: 30px;
+} */
+
+
+/* .aside{
+  margin: 0;
+  padding-top: 40px;
+  width: 25%;
+  position: fixed;
+  height: 100%;
+  overflow: auto;
+} */
+
+.flex{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+.loading{
+    display: flex;
+    height: 50px;
+}
