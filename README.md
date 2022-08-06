@@ -27,6 +27,14 @@ SPA(Single Page Aplication) que consume datos de la api externa  <a href="https:
 
 Para correr este proyecto en local debe seguir las siguientes intrucciones:
  <ol>
+ <li>Debe tener <a href="https://git-scm.com">Git</a> instalado en su maquina. </li>
+  <br/>
+ <li>Ejecute el siguiente comado para clonar este repositorio:</li>
+ 
+```
+$ git clone https://github.com/wilbernp/PI-Dogs-Henry.git
+```
+ <br/>
     <li>Debe tener instalado PosgreSQL en su maquina</li>
  <br/>
     <li>Crear un base de datos en postgreSQL con el nombre "dogs"</li>
