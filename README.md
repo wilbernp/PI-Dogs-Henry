@@ -26,10 +26,24 @@ SPA(Single Page Aplication) que consume datos de la api externa  <a href="https:
 Para correr este proyecto en local debe seguir las siguientes intrucciones:
  <ol>
     <li>Debe tener instalado PosgreSQL en su maquina</li>
+ <br/>
     <li>Crear un base de datos en postgreSQL con el nombre "dogs"</li>
-    <li>En la carpeta <strong><em>api</em></strong> debe crear el archivo <strong><em>.env</em></strong> en el cual debe copiar el contenido del archivo <strong><em>.env.example</em></strong> y colocar sus respectivas credenciales tanto de la Base de Datos, como su api key de  <a href="https://api.thedogapi.com"></a>https://api.thedogapi.com</li>
-    <li></li>
-    <li></li>
+  <br/>
+ <li>
+   Crear una cuenta en <a href="https://api.thedogapi.com">https://api.thedogapi.com</a> para que obtenga su <strong><em>Api Key</em></strong>
+ </li>
+    <br/>
+ <li>
+  En la carpeta <strong><em>api</em></strong> debe crear el archivo <strong><em>.env</em></strong> en el cual debe copiar el contenido del archivo <strong><em>.env.example</em></strong> y colocar sus respectivas credenciales tanto de la <strong><em>Base de Datos</em></strong>, como su <strong><em>Api Key</em></strong> de  <a href="https://api.thedogapi.com">https://api.thedogapi.com</a>
+ </li>
+   <br/>
+ <li>
+  Abrir una terminal en la carpeta <strong><em>api</em></strong> y ejecutar el comando <strong><em>npm install</em></strong> para instalar las dependencias del backend. Una vez termine la instalcion ejecutar el comando <strong><em>npm run dev</em></strong> para inicializar el servidor del backend. si todo ha ido bien deberia ver un mensaje similar en consola: <strong><em>"listening at port 3001"</em></strong>
+ </li>
+ <br/>
+ <li>
+  Abrir una terminal en la carpeta <strong><em>api</em></strong> y ejecutar el comando <strong><em>npm install</em></strong> para instalar las dependencias del backend. Una vez termine la instalcion ejecutar el comando <strong><em>npm run dev</em></strong> para inicializar el servidor del backend. si todo ha ido bien deberia ver un mensaje similar en consola: <strong><em>"listening at port 3001"</em></strong>
+ </li>
     <li></li>
     <li></li>
     <li></li>
