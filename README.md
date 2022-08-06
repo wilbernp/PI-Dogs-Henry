@@ -14,7 +14,9 @@ SPA(Single Page Aplication) que consume datos de la api externa  <a href="https:
 
 ## Tecnologias usadas
  <ul>
+    <li>HTML</li>
     <li>CSS</li>
+    <li>Javascript</li>
     <li>React</li>
     <li>Redux</li>
     <li>Node.js</li>
