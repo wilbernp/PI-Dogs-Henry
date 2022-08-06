@@ -46,9 +46,8 @@ Para correr este proyecto en local debe seguir las siguientes intrucciones:
   
   <img src="https://user-images.githubusercontent.com/98898262/183256169-c5fd13f3-f66e-45a5-bd57-d6723bdc33f6.jpg" width="720">
  </li>
- <li>Haga click en el boton <strong><em>Go To Home</em></strong> con lo cual deberia ver una vista como la siguiente en donde podra ver todas las funcionalidades de la pagina:
+ <li>Haciendo click en el boton <strong><em>Go To Home</em></strong> sera redirigido a la siguiente vista en donde podra explorar todas las funcionalidades de la aplicacion:
  </li>
  <img src="https://user-images.githubusercontent.com/98898262/183250835-d3323514-5634-4160-b11d-b1b837ee760d.jpg" width="720">
- 
  </ol>
 
