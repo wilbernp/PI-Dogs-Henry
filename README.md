@@ -35,7 +35,7 @@ Para correr este proyecto en local debe seguir las siguientes intrucciones:
 $ git clone https://github.com/wilbernp/PI-Dogs-Henry.git
 ```
  <br/>
-    <li>Debe tener instalado PosgreSQL en su maquina</li>
+    <li>Debe tener instalado <a href="https://www.postgresql.org/download/">PosgreSQL</a> en su maquina</li>
  <br/>
     <li>Crear un base de datos en postgreSQL con el nombre "dogs"</li>
   <br/>
