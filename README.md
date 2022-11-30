@@ -4,9 +4,6 @@
 
 SPA(Single Page Aplication) que consume datos de la api externa  <a href="https://api.thedogapi.com"> https://api.thedogapi.com</a>
 
-# IMPORTANTE! 
-Actualmente debido a que la cuota gratuita del servidor de base de datos se ha vencido el deploy no está en funcionamiento
-
 ## Funcionalidades
  <ul>
     <li>Filtrado por: Temperamentos y por grupos de razas</li>
