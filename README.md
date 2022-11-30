@@ -4,6 +4,9 @@
 
 SPA(Single Page Aplication) que consume datos de la api externa  <a href="https://api.thedogapi.com"> https://api.thedogapi.com</a>
 
+# IMPORTANTE! 
+actualmente debido a que la cuota gratuita del servidor de base de datos se ha vencido el deploy no está en funcionamiento
+
 ## Funcionalidades
  <ul>
     <li>Filtrado por: Temperamentos y por grupos de razas</li>
@@ -65,5 +68,5 @@ $ git clone https://github.com/wilbernp/PI-Dogs-Henry.git
  </ol>
  <br/>
  
- Si prefiere puede ver todas las funcionalidades de la aplicacion desde el siguiente enlace  <a href="https://pi-dogs-henry-bay.vercel.app/">PI Dogs Henry</a>
+
 
